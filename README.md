@@ -46,4 +46,5 @@ Start editing together in real-time, with changes reflecting instantaneously for
 Use syntax highlighting and other editor features to enhance your coding experience.
 
 #output
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/2d594aa9-9637-457b-87a1-391a2faaf677" />
 ![Image](https://github.com/user-attachments/assets/b2055a9a-c903-4de6-95cb-db610e9520ad)
