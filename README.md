@@ -44,3 +44,6 @@ Invite your collaborators by sharing the code editor link.
 Start editing together in real-time, with changes reflecting instantaneously for all users.
 
 Use syntax highlighting and other editor features to enhance your coding experience.
+
+#output
+![Image](https://github.com/user-attachments/assets/b2055a9a-c903-4de6-95cb-db610e9520ad)
